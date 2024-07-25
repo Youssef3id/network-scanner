@@ -29,11 +29,3 @@ Input Prompts:
 Execute the script and follow the prompts:
   ```bash
    sudo python3 networkscanner.py
-
-
-
-
-
-
-
-

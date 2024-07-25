@@ -26,6 +26,6 @@ Input Prompts:
    ```bash
    pip install scapy
 2. **Run the Scanner:**
-Execute the script and follow the prompts:
+Execute the script :
   ```bash
    sudo python3 networkscanner.py
